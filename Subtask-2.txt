@@ -87,13 +87,7 @@ He is a kind person and has always helped me
 -K.T.
 He helped me a lot during FOSS workshop.
 He is very cool.
-<<<<<<< HEAD
 
-<<<<<<< HEAD
--K.T.
-He is the only first year student who cracked GSoC.
-He is very cool and Helpful
-=======
 -Y.M.
 He is helping & Friendly.
 
@@ -173,13 +167,6 @@ He is supportive.
 -V.M 
 Extremely Helpful
 
-<<<<<<< HEAD
-
--K.T.
-He is the only first year student who cracked GSoC.
-He seems to be very cool and helpful.
-
-=======
 -K.K.
 I know him from my school days and he is very helpful and everytime i asked him he helps me.
 
@@ -189,4 +176,3 @@ I joined IIIT A because I know him . He is from my homestate . He always solves 
 - V.M.
 He is a very helpful, cool and amiable guy.
 He has immense patience while solving the doubts of the freshers.
-
